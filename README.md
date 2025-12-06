@@ -1,0 +1,1 @@
+A deep-learning based binary classification project using the IMDB movie review dataset to predict whether a review is positive or negative.
